@@ -1,0 +1,42 @@
+
+#first_div {
+	width: 1520px;
+	height: 50px;
+	border: 10px solid black;
+	background-color: black;
+}
+
+#second_div {
+	width: 1520px;
+	height: 125px;
+	border: 10px solid #D3305D;
+	background-color: #D3305D;
+	color: #F7F7F7;
+	text-align: center;
+	font-family:Verdana;
+	font-size: 20px;
+}
+
+#third_div {
+    width: 750px;
+	height: 500px;
+	border: 5px solid black;
+	background-color: #FFE4C4;
+	font-family: Verdana;
+}
+
+#fourth_div {
+	width: 750px;
+	height: 500px;
+	border: 5px solid black;
+	background-color: #FFE4C4;
+	font-family: Verdana;
+
+#body_color {
+	background-color: #FFFEEF;
+} 
+
+h2 {
+	font-size:30px;
+	text-align: center;
+}
